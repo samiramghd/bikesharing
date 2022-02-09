@@ -21,7 +21,7 @@ Finally, we add these new visualizations to the two created in the module for fi
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic1.PNG)
 
-> In this visualization, we graph the length of time that bikes are checked out for each gender which we can see it's the highest for Males.
+> In this visualization, we graph the length of time that bikes are checked out for each gender which we can see it's the highest for Males [Checkout Times by user and Gender](https://public.tableau.com/views/CheckoutTimes_16443727470940/Checkout?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic2.PNG)
 
@@ -29,7 +29,7 @@ Finally, we add these new visualizations to the two created in the module for fi
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic3.PNG)
 
-> In this visualization, we graph the number of bike trips by gender for each hour of each day of the week as a heatmap which is the highest for Males.
+> In this visualization, we graph the number of bike trips by gender for each hour of each day of the week as a heatmap which is the highest for Males [Trips by Gender(Weekday per Hour)](https://public.tableau.com/views/TripsbyWeekday_16443732529160/Weekday?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link). 
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic4.PNG)
 
@@ -37,7 +37,7 @@ Finally, we add these new visualizations to the two created in the module for fi
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic5.PNG)
 
-> In this visualization, we create a pie that shows the usertype which is the number of short-term customers and annual subscribers to the Citi Bike service. we can see many rides were recorded for Subscribers.
+> In this visualization, we create a pie that shows the usertype which is the number of short-term customers and annual subscribers to the Citi Bike service. we can see many rides were recorded for Subscribers [User Trips by Gender by Weekday](https://public.tableau.com/views/UsertripsbyGender_16443735744380/Subscriber?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic6.PNG)
 
@@ -62,11 +62,11 @@ Finally, we add these new visualizations to the two created in the module for fi
 - 6-10 AM and 5-7 PM are the busiest time of the day which is better considering more available bikes at that time.
 
 
-I was thinking it would be better if we know the bikes with the most usage belongs to what type of user that way it would be easier to be prepared for repairs and maintenance. which in this visulization we can see bikes with the most usage belongs to Subsciber type.
+I was thinking it would be better if we know the bikes with the most usage belongs to what type of user that way it would be easier to be prepared for repairs and maintenance. which in this visulization we can see bikes with the most usage belongs to Subsciber type [Bike Repairs by Usertype](https://public.tableau.com/views/BikeRepairsbyusertype/BikeRepairsbyusertype?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic10.PNG)
 
-> In this visualization, we graph the peak hours for bike trips by gender, which we can see what time of the day they ride the most by gender.
+> In this visualization, we graph the peak hours for bike trips by gender, which we can see what time of the day they ride the most by gender [Peek Hours by Gender](https://public.tableau.com/views/PeekHoursbyGender/PeekHoursbyGender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ![This is an image](https://github.com/samiramghd/bikesharing/blob/main/images/pic11.PNG)
 
